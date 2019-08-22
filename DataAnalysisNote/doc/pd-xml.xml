@@ -1,0 +1,17 @@
+<class name = "一年级2班">
+    <student>
+        <name>王二麻子</name>
+        <age>18</age>
+        <sex>女</sex>
+    </student>
+    <student>
+        <name>张三</name>
+        <age>20</age>
+        <sex>男</sex>
+    </student>
+    <student>
+        <name>李四</name>
+        <age>33</age>
+        <sex>不知道</sex>
+    </student>
+</class>
